@@ -1,0 +1,17 @@
+@media screen and (max-width: 320px) {
+    .core {
+        width: 262px;
+    }
+}
+
+@media screen and (min-width: 375px) {
+    .core {
+        width: 325px;
+    }
+}
+
+@media screen and (min-width: 420px) {
+    .core {
+        width: 375px;
+    }
+}
